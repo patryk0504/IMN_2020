@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <cmath>
-#include "vector"
+#include <vector>
 
 //////////////////////////////////////// parametry zadania
 const double delta = 0.01;
